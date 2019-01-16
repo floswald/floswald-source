@@ -346,6 +346,12 @@ enableGitInfo = false
   weight = 2
   parent = "misc"
 
+[[menu.main]]
+  name = "Tutorial"
+  url = "tutorial"
+  weight = 3
+  parent = "misc"
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]

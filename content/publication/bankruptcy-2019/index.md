@@ -4,6 +4,11 @@ title = "Consumer Bankrupcty, Mortgage Default and Labor Supply"
 # Date first published.
 date = "2019-01-01"
 
+reading_time = false  # Show estimated reading time?
+share = true  # Show social sharing links?
+profile = false  # Show author profile?
+comments = false  # Show comments?
+
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Costas Meghir", "Wenli Li", "Florian Oswald"]
 

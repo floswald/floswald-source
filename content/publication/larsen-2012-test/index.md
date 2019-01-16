@@ -2,6 +2,10 @@
 title = "A test of the extreme value type I assumption in the bus engine replacement model"
 date = 2012-01-01
 authors = ["Bradley J Larsen", "Florian Oswald", "Gregor Reich", "Dan Wunderli"]
+reading_time = false  # Show estimated reading time?
+share = true  # Show social sharing links?
+profile = false  # Show author profile?
+comments = false  # Show comments?
 publication_types = ["2"]
 abstract = "This note tests the assumption of dynamic discrete choice models that underlying utility shocks have an extreme value type I distribution. We find that extreme value type I shocks cannot be rejected in most specifications of the Rust (1987) bus engine replacement model."
 

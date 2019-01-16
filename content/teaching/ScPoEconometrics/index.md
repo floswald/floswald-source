@@ -3,6 +3,11 @@ title = "Econometrics"
 date = 2019-01-09T14:42:18+01:00
 draft = false
 
+reading_time = false  # Show estimated reading time?
+share = true  # Show social sharing links?
+profile = false  # Show author profile?
+comments = false  # Show comments?
+
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["teaching"]

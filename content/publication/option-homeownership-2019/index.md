@@ -4,6 +4,11 @@ title = "The Effect of Homeownership on the Option Value of Regional Migration"
 # Date first published.
 date = "2019-01-01"
 
+reading_time = false  # Show estimated reading time?
+share = true  # Show social sharing links?
+profile = false  # Show author profile?
+comments = false  # Show comments?
+
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Florian Oswald"]
 

@@ -1,6 +1,10 @@
 +++
 title = "The Housing Stock, Housing Prices, and User Costs: The Roles of Location, Structure and Unobserved Quality"
 draft = false
+reading_time = false  # Show estimated reading time?
+share = true  # Show social sharing links?
+profile = false  # Show author profile?
+comments = false  # Show comments?
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
