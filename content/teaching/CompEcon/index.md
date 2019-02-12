@@ -30,3 +30,7 @@ This is a graduate level course in Computational Economics. We cover a series of
 * Students should look at the [CoursePack website](https://scpo-compecon.github.io/CoursePack/).
 * All material, including homeworks, are collected under our [github org](https://github.com/ScPo-CompEcon).
 
+### GPU computing tutorial
+
+* Here is a tutorial on {{% staticref "html/vfi.html" "newtab" %}}GPU computing with julia{{% /staticref %}}.
+
