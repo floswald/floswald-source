@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0400</lastBuildDate>
     
 	<atom:link href="https://floswald.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://floswald.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title></title>
       <link>https://floswald.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/about/</guid>
       <description>Bonjour! I am an Assistant Professor of Economics at SciencesPo in Paris. My work is in the fields of Housing, Urban, Macro and Labor Economics. I also like to think about computational techniques required for structural estimation of microeconometric models.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Publications</title>
       <link>https://floswald.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/publications/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Academic</title>
       <link>https://floswald.github.io/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -51,7 +51,7 @@
     <item>
       <title>Working Papers</title>
       <link>https://floswald.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/publications_selected/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Projects</title>
       <link>https://floswald.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/projects/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Teaching</title>
       <link>https://floswald.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/teaching/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://floswald.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/talks/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Skills</title>
       <link>https://floswald.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/skills/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Contact</title>
       <link>https://floswald.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/contact/</guid>
       <description></description>
@@ -123,7 +123,7 @@
     <item>
       <title>Selected Talks</title>
       <link>https://floswald.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/talks_selected/</guid>
       <description></description>
@@ -132,7 +132,7 @@
     <item>
       <title>Recent Posts</title>
       <link>https://floswald.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/posts/</guid>
       <description></description>
@@ -141,7 +141,7 @@
     <item>
       <title>Custom Section</title>
       <link>https://floswald.github.io/home/custom/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/custom/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -151,7 +151,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Tags</title>
       <link>https://floswald.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/home/tags/</guid>
       <description></description>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -99,6 +99,12 @@
 &lt;li&gt;The course syllabus is &lt;a href=&#34;https://github.com/ScPo-CompEcon/Syllabus&#34; target=&#34;_blank&#34;&gt;available on github&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Students should look at the &lt;a href=&#34;https://scpo-compecon.github.io/CoursePack/&#34; target=&#34;_blank&#34;&gt;CoursePack website&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;All material, including homeworks, are collected under our &lt;a href=&#34;https://github.com/ScPo-CompEcon&#34; target=&#34;_blank&#34;&gt;github org&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gpu-computing-tutorial&#34;&gt;GPU computing tutorial&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Here is a tutorial on &lt;a href=&#34;https://floswald.github.io/html/vfi.html&#34; target=&#34;_blank&#34;&gt;GPU computing with julia&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -288,7 +294,7 @@
     <item>
       <title>Recourse and residential mortgages: The case of Nevada</title>
       <link>https://floswald.github.io/publication/li-2017-recourse/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0400</pubDate>
       
       <guid>https://floswald.github.io/publication/li-2017-recourse/</guid>
       <description></description>
