@@ -341,9 +341,15 @@ enableGitInfo = false
   parent = "misc"
 
 [[menu.main]]
+  name = "RA"
+  url = "ra"
+  weight = 2
+  parent = "misc"
+
+[[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 2
+  weight = 3
   parent = "misc"
 
 # Link to a PDF of your resume/CV from the menu.
