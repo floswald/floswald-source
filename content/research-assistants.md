@@ -23,7 +23,11 @@ highlight=true
 +++
 
 
-I am always looking for motivated research assistants, and I was lucky to work with people who went on to other exciting opportunities after having worked for me (see below!). Here is the list of minimal requirements that you need to master in order to be able to work for me: 
+I am always looking for motivated research assistants, and I was lucky to work with people who went on to other exciting opportunities after having worked for me (see below!). 
+
+## Minimal Requirements
+
+Here is the list of minimal requirements that you need to master in order to be able to work for me: 
 
 0. Read [The RA Philosphy](https://web.stanford.edu/%7Egentzkow/research/CodeAndData.pdf) by Gentzkow and Shapiro
 1. Unix shell: You need some basic unix at least to the level of [this](https://swcarpentry.github.io/shell-novice/)
@@ -41,7 +45,7 @@ I am always looking for motivated research assistants, and I was lucky to work w
         3. [spatial-pipelines](http://walkerke.github.io/2016/12/spatial-pipelines/)
         4. All [sf package vignettes 1-5](https://r-spatial.github.io/sf/articles/sf1.html)
     3. You need to know [`R data.table`](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html).
-3. Good `python` skills is an asset but not a substitute for 2.
+3. Good `python` skills is an asset but not a substitute for 4.
 4. `julia` skills is an asset. 
 
 
@@ -49,14 +53,14 @@ I am always looking for motivated research assistants, and I was lucky to work w
 
 ## RA Hall of Fame 🎉
 
-Here they are!  My current and previous research assistants in one place! I can only claim minimal influence in their successful careers 🤓. 
+Here they are! My current and previous research assistants in one place! I can only claim minimal influence in their successful careers 🤓. 
 
 
  Name  |  Project/Tools  |  Tasks  | Now at
 --------|---------|:----------:| :---:
-[Hugo L'Huillier](https://hugolhuillier.github.io) | [Fertility](/project/fertility), `julia` | Numerical solution of nonlinear model, Git, `Plots.jl` graphics | Princeton Econ PhD
-[Vincent Viers](https://vviers.github.io/) | [ScPoEconometrics](/teaching/scpoeconometrics), [ZTRAX](/project/ZTRAX), [Airbnb](/project/Airbnb) `R, postgreSQL` | advanced data wrangling with `data.table`, `dplyr`, spatial analytics with `sf`. Bash scripting on remote machines. Git. Econometrics tutorials in `Rmd` | LSE data science
-[Jeanne Sorin](https://fr.linkedin.com/in/jeanne-sorin-7a6248137) | [ZTRAX](/project/ZTRAX), [Chicago](/project/ChicagoCrime), `R` | advanced data wrangling with `data.table`, `dplyr`, spatial analytics with `sf`, FE estimation with `lfe`. Work on google VM. Git. | [@ScPoEcon](https://twitter.com/ScPoEcon), starting PhD U Chicago
+[Hugo L'Huillier](https://hugolhuillier.github.io) | [Fertility](/project/fertility) /  `julia, git` | Numerical solution of nonlinear model, `Plots.jl` graphics | Princeton Econ PhD
+[Vincent Viers](https://vviers.github.io/) | [ScPoEconometrics](/teaching/scpoeconometrics), [ZTRAX](/project/ZTRAX), [Airbnb](/project/Airbnb) / `R, postgreSQL, git` | advanced data wrangling with `data.table`, `dplyr`, spatial analytics with `sf`. Bash scripting on remote machines. Econometrics tutorials in `Rmd` | LSE data science
+[Jeanne Sorin](https://fr.linkedin.com/in/jeanne-sorin-7a6248137) | [ZTRAX](/project/ZTRAX), [Chicago](/project/ChicagoCrime) / `R, git` | advanced data wrangling with `data.table`, `dplyr`, spatial analytics with `sf`, FE estimation with `lfe`. Work on google VM.| [@ScPoEcon](https://twitter.com/ScPoEcon), starting PhD U Chicago
 
 
 
