@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Florian Oswald</title>
+    <link>https://floswald.github.io/tags/research/</link>
+    <description>Recent content in research on Florian Oswald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 15 Jan 2019 10:57:27 +0100</lastBuildDate>
+    
+	<atom:link href="https://floswald.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hedonic Housing over the Lifecycle</title>
+      <link>https://floswald.github.io/project/hedonic/</link>
+      <pubDate>Tue, 15 Jan 2019 10:57:27 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/project/hedonic/</guid>
+      <description>In this project we want to build an empirical lifecycle model with the following features:
+ 2D location choice choice of housing quality index choice of mortgage size choice of liquid savings choice of whether rent vs own  We directly refer to our companion paper when thinking about housing supply: It is impossible to rent a 5 bedroom apartment in the suburbs. Similary, it is relatively expensive to buy a 4 bedroom flat in the very city center.</description>
+    </item>
+    
+    <item>
+      <title>Research Assistants</title>
+      <link>https://floswald.github.io/research-assistants/</link>
+      <pubDate>Thu, 25 Apr 2019 12:58:45 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/research-assistants/</guid>
+      <description>I am always looking for motivated research assistants, and I was lucky to work with people who went on to other exciting opportunities after having worked for me (see below!). Here is the list of minimal requirements that you need to master in order to be able to work for me:
+ Read The RA Philosphy by Gentzkow and Shapiro Unix shell: You need some basic unix at least to the level of this Git: You need git knowledge at the level of that R.</description>
+    </item>
+    
+    <item>
+      <title>Chicago Crime and House Prices</title>
+      <link>https://floswald.github.io/project/chicagocrime/</link>
+      <pubDate>Thu, 25 Apr 2019 11:56:04 +0200</pubDate>
+      
+      <guid>https://floswald.github.io/project/chicagocrime/</guid>
+      <description>In this research project we would like to contribute to a small and growing literature after Thaler (1978) that tries to establish a causal relationship between local crime and local house prices. The central aim of this literature is to this day the measurement of the willingness to pay of residents for crime reduction. In a wider sense, how much should a country spend on its criminal justice system, how much to spend on police forces?</description>
+    </item>
+    
+    <item>
+      <title>ZTRAX</title>
+      <link>https://floswald.github.io/project/ztrax/</link>
+      <pubDate>Thu, 25 Apr 2019 11:54:27 +0200</pubDate>
+      
+      <guid>https://floswald.github.io/project/ztrax/</guid>
+      <description>This project works on the backend of the zillow.com database which was given to us under a permissive license. We work on a VM in the google cloud. We use the housing transaction data in several projects:
+ Chicago House Prices and Crime Fertility and Location Choices  </description>
+    </item>
+    
+    <item>
+      <title>Airbnb vs Rents</title>
+      <link>https://floswald.github.io/project/airbnb/</link>
+      <pubDate>Mon, 14 Jan 2019 23:15:01 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/project/airbnb/</guid>
+      <description>What&amp;rsquo;s the causal impact of airbnb listings on long-term rents and house prices? In this project we try to establish a causal link between the two by using proprietary airdna data together with detailed rental market listings.
+Status Data Theory: We have a simple model to motivate the estimation Data Analysis: We wanted to use terrorism as a demand shifter for airbnb tourism demand, didn&amp;rsquo;t work. currently looking for alternatives.</description>
+    </item>
+    
+    <item>
+      <title>Fertility and Location Choice in the City</title>
+      <link>https://floswald.github.io/project/fertility/</link>
+      <pubDate>Mon, 14 Jan 2019 23:15:01 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/project/fertility/</guid>
+      <description>In this project we want to better understand the role of fertility choices in the context of the standard Urban Model. How many children will be born in each location? Why is fertility different across cities? What is the role of fertility for city growth, over and above migratory flows alone? How could the literature on fertility think for so long about long run trends without considering the impact of children on the equilibrium house price?</description>
+    </item>
+    
+  </channel>
+</rss>
