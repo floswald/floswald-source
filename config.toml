@@ -341,8 +341,8 @@ enableGitInfo = false
   parent = "misc"
 
 [[menu.main]]
-  name = "RA"
-  url = "ra"
+  name = "Research Assistants"
+  url = "research-assistants"
   weight = 2
   parent = "misc"
 
