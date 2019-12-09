@@ -1,236 +1,205 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Medium Length Professional CV
-% LaTeX Template
-% Version 2.0 (8/5/13)
+% LaTeX Curriculum Vitae Template
 %
-% This template has been downloaded from:
-% http://www.LaTeXTemplates.com
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
 %
-% Original author:
-% Trey Hunner (http://www.treyhunner.com/)
-%
-% tweaked by florian oswald
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
 
-%----------------------------------------------------------------------------------------
-%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
+\documentclass[letterpaper]{article}
 
-\documentclass{cvjobmarket} % Use class in cvjobmarket.cls
+\usepackage{hyperref}
+\usepackage{geometry}
 
-\usepackage[left=0.9in,top=0.6in,right=0.9in,bottom=0.6in]{geometry} % Document margins
-% \usepackage{url}
-\usepackage[utf8]{inputenc}
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
 \usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
 
-% --- fill in here the doc title and author
-% \renewcommand{\familydefault}{\sfdefault}
+% Set your name here
+\def\name{Florian Oswald}
 
-\name{Florian Oswald} % Your name
-\webpage{https://floswald.github.io/}
-\email{florian.oswald@gmail.com}
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+% \def\footerlink{http://}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = blue,
+  pdfauthor = {\name},
+  pdfkeywords = {economics, macro, urban, labor},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
 
 \begin{document}
-%----------------------------------------------------------------------------------------
-%	current college SECTION
-%----------------------------------------------------------------------------------------
 
-% \begin{collegeSection}{University College London}
+% Place name at left
+{\huge \name}
 
-% {Placement Director: Andrew Chesher} \hfill {\href{mailto:andrew.chesher@ucl.ac.uk}{\texttt{andrew.chesher@ucl.ac.uk}}} \\ 
-% {Graduate Coordinator: Daniella Harper} \hfill {\href{mailto:economics.jobmarket@ucl.ac.uk}{\texttt{economics.jobmarket@ucl.ac.uk}}} \\ 
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
 
-% \end{collegeSection}
+\vspace{0.25in}
 
-%----------------------------------------------------------------------------------------
-%	contact SECTION
-%----------------------------------------------------------------------------------------
+\begin{minipage}{0.55\linewidth}
+ Department of Economics\\
+  SciencesPo\\
+28 Rue des Saints-Pères \\ 
+75007 Paris \\ 
+France \\ 
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+  \begin{tabular}{ll}
+    Email: & \href{mailto:florian.oswald@sciencespo.fr}{\tt florian.oswald@sciencespo.fr} \\
+    Homepage: & \href{https://floswald.github.io}{\tt https://floswald.github.io} \\
+  \end{tabular}
+\end{minipage}
 
-\begin{rSection}{Contact Details}
 
-{Department of Economics} \\ 
-{Sciences Po} \\ 
-{28 Rue des Saints-Pères} \\ 
-{75007 Paris} \\ 
-{France} \\ 
+\section*{Personal}
 
-\end{rSection}
+\begin{itemize}
+\item Born October 18th 1981.
+\item Austrian Citizen.
+\end{itemize}
 
 
+\section*{Education}
 
-%----------------------------------------------------------------------------------------
-%	Education SECTION
-%----------------------------------------------------------------------------------------
+\begin{itemize}
+  \setlength{\itemindent}{26pt}
+  \item[2015:] Ph.D. Economics, University College London.\\
+  Advisors: Costas Meghir, Lars Nesheim and Richard Blundell.
 
-\begin{rSection}{Education}
+  \item[2008:] M.Sc. Economics, University College London.
 
-{PhD, Economics, University College London, 2015}\\
-{Thesis title: ``Essays on Consumption, Bankruptcy, Housing and Migration''}\\
-{Advisors: Costas Meghir, Lars Nesheim and Richard Blundell}\\
+  \item[2006:] Diplom, International Economics and Business, University of Innsbruck.
 
-{MSc, Economics, University College London, 2008}\\
-{Thesis Advisor: Rachel Griffith}\\
+\end{itemize}
 
-{Diplom, International Economics and Business, University of
-  Innsbruck, Austria, 2006}\\ 
 
-\end{rSection}
+\section*{Employment}
 
+\begin{itemize}
+  \setlength{\itemindent}{26pt}
+\item[2015:] SciencesPo, Assistant Professor of Economics
+\end{itemize}
 
 
+\section*{Publications}
 
-%----------------------------------------------------------------------------------------
-%	References SECTION
-%----------------------------------------------------------------------------------------
+\begin{itemize}
+\item A test of the extreme value type I assumption in the bus engine replacement model, joint with Brad Larsen, Gregor Reich and Dan Wunderli. {\it Economics Letters, 112(2), August 2012, pages 213--216}.
+\item Recourse and Residential Mortgage Market: the Case of Nevada, joint with Wenli Li. Lead Article in the {\it Journal of Urban Economics 101 (2017):1–13}.
+\item The effect of homeownership on the option value of regional migration. {\it Quantitative Economics, Vol. 10, 2019, pages 1453--1493}
+\end{itemize}
 
-% \begin{rSection}{References}
 
-% \begin{tabularx}{\textwidth}{p{.5\textwidth}X}
-% Lars Nesheim                                             & Costas Meghir \\
-% University College London                                & Yale University \\
-% Gordon Street, London WC1H 0AX                           & New Haven, CT 06511 \\
-% \href{mailto:l.nesheim@ucl.ac.uk}{\texttt{l.nesheim@ucl.ac.uk}}   & \href{mailto:c.meghir@yale.edu}{\texttt{c.meghir@yale.edu}}\\
-% \end{tabularx}\\
+\section*{Working Papers}
 
-% \bigskip
+\begin{itemize}
+\item The Housing Stock, Housing Prices, and User Costs: The Roles of Location, Structure and Unobserved Quality, joint with Jonathan Halket and Lars Nesheim. {\it R\&R at the International Economic Review.}
+\item Consumer Bankruptcy and Mortgage Default, joint with Costas Meghir and Wenli Li. {\it in preparation for submission.}
+\end{itemize}
 
-% \begin{tabularx}{\textwidth}{p{.5\textwidth}X}
-% Richard Blundell                                         & Mariacristina DeNardi\\
-% University College London                                & University College London\\
-% Gordon Street, London WC1H 0AX                           & Gordon Street, London WC1H 0AX   \\
-% \href{mailto:r.blundell@ucl.ac.uk}{\texttt{r.blundell@ucl.ac.uk}} &\href{mailto:denardim@nber.org}{\texttt{denardim@nber.org}}\\
-% \end{tabularx}\\
+\section*{Work in Progress}
 
-% \end{rSection}
+\begin{itemize}
+\item Fertility Across and Within Cities, joint with Nicolas Coeurdacier, Pierre-Philippe Combes and Laurent Gobillon.
+\item Structural Change, Land Use and Urban Expansion, joint with Nicolas Coeurdacier, and Marc Teigner.
+\item Airbnb vs Rents in Paris, joint with Emile Tenezakis, Joan Monras, and Guillaume Chapelle.
+% {2014: Royal Holloway University London, PhD Mini-conference}\\
+% {2013: NBER Summer Sessions, Aggregate Implications of Micro Behaviour group}\\
+\end{itemize}
 
+\section*{Conference \& Seminar Presentations}
 
+\begin{itemize}
+  % \setlength{\itemindent}{26pt}
+\item[2019:] NYU Abu Dhabi, CREST, OECD, DIW Berlin (scheduled), U Carlos 3 Madrid (scheduled).
+\item[2018:] Toulouse School of Economics workshop on Dynamic Housing Models, GATE ENS Lyon, Financial Conduct Authority London.
+\item[2017:] Uni Lausanne Urban and Transport workshop, Chicago Fed, Barcelona GSE Summer Forum Migration, SED Edinburgh, UCL Conference on Implementation of Dynamic Models, CEMFI
+\item[2016:] Bank of England and Cemmap Housing conference, Barcelona IEB workshop on Urban Economics, EIEF Rome Junior Conference Applied Micro, SciencesPo Urban Seminar, URBAN workshop at U Copenhagen
+\item[2015:] DIW Berlin, Boston College, Chicago Fed, Stockholm School of Economics, Cambridge University, Toulouse School of Economics, Sciences Po, Bank of England, SED Warsaw, EEA Mannheim
+\item[2014:] Royal Holloway University London, PhD Mini-conference
+\item[2013:] NBER Summer Sessions, Aggregate Implications of Micro Behaviour group
+\end{itemize}
 
-
-
-
-
-
-%----------------------------------------------------------------------------------------
-%	Research SECTION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Research Fields}
-
-{Labor, Urban, Housing, Macro}\\ 
-
-\end{rSection}
-
-
-
-%----------------------------------------------------------------------------------------
-% Research in progress SECTION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Publications}
-
-{\textbf{A test of the extreme value type I assumption in the bus engine replacement model, joint with Brad Larsen, Gregor Reich and Dan Wunderli}, published in \href{http://www.sciencedirect.com/science/article/pii/S0165176512000870}{Economics Letters}, 112(2), August 2012, pages 213--216}\\ 
-
-
-{\textbf{Recourse and Residential Mortgage Market: the Case of Nevada, joint with Wenli Li}} \\
-{Lead Article in the Journal of Urban Economics 101 (2017):1–13}\\
-
-{\textbf{The Effect of Homeownership on the Option Value of Regional Migration}}\\
-{Accepted at Quantitative Economics.}
-
-
-\end{rSection}
-
-\begin{rSection}{Working Papers}
-
-{\textbf{The Housing Stock, Housing Prices, and User Costs: The Roles of Location, Structure and Unobserved Quality, joint with Jonathan Halket and Lars Nesheim}} \\
-{Revise and Resubmit at International Economic Review.}
-
-{\textbf{Consumer Bankruptcy and Mortgage Default, joint with Costas Meghir and Wenli Li}} \\
-
-
-
-\end{rSection}
-\begin{rSection}{Work in Progress}
-
-{\textbf{Fertility and City Growth, joint with Nicolas Coeurdacier, Laurent Gobillon and Pierre-Philippe Combes}} \\
-
-{\textbf{Airbnb vs Rents, joint with Joan Monras, and Guillaume Chapel}} \\
-
-{\textbf{Urban Lifecycles, joint with Jonathan Halket and Lars Nesheim}} \\
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-%	Conference & Seminar Presentation SECTION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Conference \& Seminar Presentations}
-
-{2019: NYU Abu Dhabi, CREST, OECD}\\
-{2018: Toulouse School of Economics workshop on Dynamic Housing Models, GATE ENS Lyon, Financial Conduct Authority London}\\
-{2017: Uni Lausanne Urban and Transport workshop, Chicago Fed, Barcelona GSE Summer Forum Migration, SED Edinburgh, UCL Conference on Implementation of Dynamic Models, CEMFI}\\
-{2016: Bank of England and Cemmap Housing conference, Barcelona IEB workshop on Urban Economics, EIEF Rome Junior Conference Applied Micro, SciencesPo Urban Seminar, URBAN workshop at U Copenhagen}\\
-{2015: DIW Berlin, Boston College, Chicago Fed, Stockholm School of Economics, Cambridge University, Toulouse School of Economics, Sciences Po, Bank of England, SED Warsaw, EEA Mannheim}\\
-{2014: Royal Holloway University London, PhD Mini-conference}\\
-{2013: NBER Summer Sessions, Aggregate Implications of Micro Behaviour group}\\
-
-\end{rSection}
-%----------------------------------------------------------------------------------------
-%	Teaching SECTION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Teaching Experience}
-
-{Spring 2016 and 2017, 2018, 2019 Computational Economics, Sciences Po}\\
-{Fall 2018, Introduction to Econometrics with R (Cours Designer), Sciences Po}\\
-{Spring 2016 and 2017, 2018 Graduate Labour, Sciences Po}\\
-{Fall 2015, Graduate Macro, Sciences Po}\\
-{2012, Economics and Econometrics of Policy Evaluation (graduate), Aureo de Paula, UCL}\\
-{2012, Maths and Stats Refresher Course (graduate), Daniel Wilhelm and Suehyun Kwon, UCL}\\
-{2011, Economics and Econometrics of Policy Evaluation (graduate), Costas Meghir, UCL}\\
-{2011, Maths and Stats Refresher Course (graduate), Monica Costa Dias, UCL }\\
-{2009, Quantitative Economics and Econometrics (undergraduate), Karthik Kalyanaraman, UCL}\\
-
-\end{rSection}
-
-
-%----------------------------------------------------------------------------------------
-%	Research experience SECTION
-%----------------------------------------------------------------------------------------
-
-% \begin{rSection}{Research Experience}
-
-% {Feb 2012 - Jan 2013, Research Assistant to Adam Rosen}
-% {2007, Research Assistant }
-
-% \end{rSection}
-
-
-
-
-
-
-
-%----------------------------------------------------------------------------------------
-%	Scholarships SECTION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Scholarships and Grants}
-
-{2018, SciencesPo SAB Grant Direction Scientifique}\\
-{2016, Banque de France and Sciences Po Junior Research Grant}\\
-{2012--2014, The Alfred P. Sloan Foundation Research Grant}\\
-{2010--2012, DOC-fellowship of the Austrian Academy of Sciences}\\
-{2009--2012, Economic and Social Research Council Fees Scholarship}\\
-{2007--2008, Postgraduate Scholarship of the Austrian Ministry of Education and Science}
-
-\end{rSection}
-
-
-updated: \today
-
-
-
+\section*{Teaching}
+\begin{itemize}
+\item[2016--2019:] Computational Economics, Sciences Po. 
+\item[2018--2019:] Introduction to Econometrics with R (Main Cours Designer), Sciences Po.
+\item[2016--2018:] Graduate Labour, Sciences Po. 
+\item[2015:] Graduate Macro, Sciences Po. 
+\item[2012:] Economics and Econometrics of Policy Evaluation (graduate), Aureo de Paula, UCL. 
+\item[2012:] Maths and Stats Refresher Course (graduate), Daniel Wilhelm and Suehyun Kwon, UCL. 
+\item[2011:] Economics and Econometrics of Policy Evaluation (graduate), Costas Meghir, UCL. 
+\item[2011:] Maths and Stats Refresher Course (graduate), Monica Costa Dias, UCL . 
+\item[2009:] Quantitative Economics and Econometrics (undergraduate), Karthik Kalyanaraman, UCL. 
+\end{itemize}
+
+\section*{Grants}
+
+
+\begin{itemize}
+\item[2018:] SciencesPo SAB Grant Direction Scientifique
+\item[2016:] Banque de France and Sciences Po Junior Research Grant
+\item[2012--2014:] The Alfred P. Sloan Foundation Research Grant
+\item[2010--2012:] DOC-fellowship of the Austrian Academy of Sciences
+\item[2009--2012:] Economic and Social Research Council Fees Scholarship
+\item[2007--2008:] Postgraduate Scholarship of the Austrian Ministry of Education and Science
+\end{itemize}
+
+\bigskip
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    % \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
 
 \end{document}
