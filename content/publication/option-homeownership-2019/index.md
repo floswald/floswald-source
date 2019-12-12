@@ -19,7 +19,7 @@ authors = ["Florian Oswald"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "accepted Quantitative Economics"
+publication = "Quantitative Economics"
 publication_short = "QE"
 
 # Abstract and optional shortened version.

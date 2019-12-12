@@ -31,7 +31,8 @@ In this project we want to better understand the role of fertility choices in th
 
 ## Status
 
-- [x] Data Access: Confidential access data to the French Census via [CASD](https://www.casd.eu)
-- [x] Theory: We have a working model with joint location, fertility and housing choice. It delivers a closed form house price distribution in each city, equations for migration flows and an expression for the spending share on housing.
-- [ ] Data Analysis
+- [x] Data Access: Confidential access data to the French Census
+- [x] Theory: We have a working model with joint location, fertility and housing choice. It delivers a closed form house price distribution in each city, equations for migration flows and an expression for the spending share on housing. 
+- [x] Slides: available upon request 
+- [x] Data Analysis
 - [ ] Draft
