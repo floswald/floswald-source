@@ -29,8 +29,8 @@ publication = "R&R at International Economic Review"
 publication_short = "R&R at IER"
 
 # Abstract and optional shortened version.
-abstract = "Using the English Housing Survey, we estimate a supply side selection model of the allocation of properties to the owner-occupied and rental sectors. We find that location, structure and unobserved quality are important for understanding housing prices, rents and selection. Structural characteristics and unobserved quality are important for selection. Location is not. Accounting for selection is important for estimates of rent-to-price ratios and can explain some puzzling correlations between rent-to-price ratios and homeownership rates. We interpret this as strong evidence in favor of contracting frictions in the rental market likely related to housing maintenance."
-abstract_short = "We estimate a supply side selection model of the allocation of properties to the owner-occupied and rental sectors and find that location, structure and unobserved quality are important for understanding housing prices, rents and selection."
+abstract = "Which housing characteristics are important for understanding homeownership rates? How are housing characteristics priced in the rental and owner-occupied markets? And what can the answers to the previous questions tell us about economic theories of contracting frictions in housing? Using the English Housing Survey, we estimate a selection model of the allocation of properties to the owner-occupied and rental sectors. Structural characteristics and unobserved quality are important for selection. Location is not. Accounting for selection is important for estimates of rent-to-price ratios and can explain some puzzling correlations between rent-to-price ratios and homeownership rates. These patterns are consistent with, among others, hypotheses of contracting frictions in the rental market likely related to housing maintenance."
+abstract_short = "Which housing characteristics are important for understanding homeownership rates? How are housing characteristics priced in the rental and owner-occupied markets?"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -45,7 +45,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.ifs.org.uk/uploads/cemmap/wps/cwp731515.pdf"
+url_pdf = "pdf/housing-stock.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -68,7 +68,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "housing-stock.pdf"
-caption = "House Price and Rent Gradients"
+image = "housing-stock.png"
+caption = "House Price and Rent Gradients in Greater London"
 
 +++
