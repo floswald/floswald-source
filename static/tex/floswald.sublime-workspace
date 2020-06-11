@@ -1,0 +1,1049 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"1e",
+				"1e-10"
+			],
+			[
+				"do",
+				"do_intersect"
+			],
+			[
+				"tplot",
+				"tplot3c"
+			],
+			[
+				"tye",
+				"typemin"
+			],
+			[
+				"ty",
+				"typemin"
+			],
+			[
+				"approx",
+				"\\approxnotequal\t≆"
+			],
+			[
+				"isec",
+				"isec_s"
+			],
+			[
+				"ise",
+				"isec_s"
+			],
+			[
+				"min",
+				"min_y"
+			],
+			[
+				"itp",
+				"itp_points"
+			],
+			[
+				"series",
+				"series_annotations"
+			],
+			[
+				"upper",
+				"upper_env"
+			],
+			[
+				"upp",
+				"upper_env"
+			],
+			[
+				"ix",
+				"ix_nenv"
+			],
+			[
+				"Env",
+				"Envelope"
+			],
+			[
+				"env",
+				"env_set"
+			],
+			[
+				"bank",
+				"bankrupt_ago"
+			],
+			[
+				"cash",
+				"cash_max"
+			],
+			[
+				"cashEV",
+				"cashEV_max"
+			],
+			[
+				"tmp_net",
+				"tmp_netbOwn"
+			],
+			[
+				"Gr",
+				"GriddedInterpolation"
+			],
+			[
+				"nsa",
+				"nscaled"
+			],
+			[
+				"FRED",
+				"FRED_default"
+			],
+			[
+				"df2dict",
+				"df2dict_row"
+			],
+			[
+				"df",
+				"df2dict"
+			],
+			[
+				"rent",
+				"rent_13id"
+			],
+			[
+				"own_7",
+				"own_7_def_id"
+			],
+			[
+				"data",
+				"data_mom"
+			],
+			[
+				"set",
+				"setMoments"
+			],
+			[
+				"tmp",
+				"tmp_b"
+			],
+			[
+				"educ",
+				"educ_group"
+			],
+			[
+				"lamd",
+				"lambda_high"
+			],
+			[
+				"hou",
+				"hourslr0"
+			],
+			[
+				"fren",
+				"french_h"
+			],
+			[
+				"french",
+				"french_hours"
+			],
+			[
+				"Dic",
+				"DictoVec"
+			],
+			[
+				"shock",
+				"shocks_eps"
+			],
+			[
+				"sim_rent",
+				"sim_rent_itps"
+			],
+			[
+				"own_7_def_",
+				"own_7_def_joint"
+			],
+			[
+				"fi13",
+				"fi13_count"
+			],
+			[
+				"jobs",
+				"jobs_list"
+			],
+			[
+				"check",
+				"check_states"
+			],
+			[
+				"unemp",
+				"unemp_benefit"
+			],
+			[
+				"Non",
+				"recourse-nonrecourse"
+			],
+			[
+				"b",
+				"bapcpa"
+			],
+			[
+				"test",
+				"test_dw_v"
+			],
+			[
+				"DW",
+				"DW_V"
+			],
+			[
+				"non",
+				"non-exempt"
+			],
+			[
+				"zero",
+				"zero_hours"
+			],
+			[
+				"idx",
+				"idx_last"
+			],
+			[
+				"idx_",
+				"idx_last"
+			],
+			[
+				"per",
+				"peroffset"
+			],
+			[
+				"owner",
+				"owners13"
+			],
+			[
+				"owners",
+				"owners7"
+			],
+			[
+				"ren",
+				"rent7"
+			],
+			[
+				"rent13",
+				"rent13_idx"
+			],
+			[
+				"update",
+				"update_w"
+			],
+			[
+				"upd",
+				"updated"
+			],
+			[
+				"FRM",
+				"FRM_debt"
+			],
+			[
+				"mort",
+				"mort_pay"
+			],
+			[
+				"job",
+				"job_idx"
+			],
+			[
+				"role",
+				"role_dice"
+			],
+			[
+				"show",
+				"show_at"
+			],
+			[
+				"bk",
+				"bk_count"
+			],
+			[
+				"nm",
+				"nm_negeq"
+			],
+			[
+				"In",
+				"Int64"
+			],
+			[
+				"tmp_EVrent",
+				"tmp_EVrent13_def"
+			],
+			[
+				"tmp_EVre",
+				"tmp_EVrent13"
+			],
+			[
+				"max",
+				"maxRepayLength"
+			],
+			[
+				"Dm",
+				"DomainError"
+			],
+			[
+				"repay",
+				"maxRepayLength"
+			],
+			[
+				"appro",
+				"\\approx\t≈"
+			],
+			[
+				"get",
+				"getNonExempt"
+			],
+			[
+				"Expec",
+				"ExpectedIncome"
+			],
+			[
+				"Expe",
+				"ExpectedIncome"
+			],
+			[
+				"set_",
+				"set_ExpectedIncomes"
+			],
+			[
+				"I",
+				"Individual"
+			],
+			[
+				"save",
+				"save_cons"
+			],
+			[
+				"interp",
+				"interp_ccp"
+			],
+			[
+				"it",
+				"itp_point"
+			],
+			[
+				"own",
+				"own_7id"
+			],
+			[
+				"nD",
+				"nD_rent"
+			],
+			[
+				"EV",
+				"EVrent_def"
+			],
+			[
+				"EVrent",
+				"EVrent_def"
+			],
+			[
+				"EVown13",
+				"EVown13_tmp"
+			],
+			[
+				"EVown7",
+				"EVown7_tmp"
+			],
+			[
+				"EVown",
+				"EVown_tmp"
+			],
+			[
+				"compute",
+				"compute_netbOwn_2"
+			],
+			[
+				"envPr",
+				"envPr13_buy"
+			],
+			[
+				"on",
+				"one_over_R"
+			],
+			[
+				"wage",
+				"wage_determ"
+			],
+			[
+				"expected",
+				"expected_y"
+			],
+			[
+				"netb",
+				"netbRent_tmp"
+			],
+			[
+				"Oidx",
+				"Oidx_L_jidx"
+			],
+			[
+				"si",
+				"sigma_eps"
+			],
+			[
+				"v3",
+				"v3_tmp13"
+			],
+			[
+				"D",
+				"DchoiceW"
+			],
+			[
+				"EVpw",
+				"EVown7_tmp"
+			],
+			[
+				"ufun",
+				"ufun_own"
+			],
+			[
+				"net",
+				"netbOwn_tmp"
+			],
+			[
+				"denardi",
+				"denardi_proc"
+			],
+			[
+				"v_sta",
+				"v_stay"
+			],
+			[
+				"v_fil",
+				"v_filedef"
+			],
+			[
+				"EXPECT",
+				"EXPECT_TRUE"
+			],
+			[
+				"leis",
+				"leis_dchoice"
+			],
+			[
+				"sol",
+				"sol_base"
+			],
+			[
+				"_G",
+				"_Gsim"
+			],
+			[
+				"v1arr",
+				"v1arr_pos"
+			],
+			[
+				"Owner",
+				"OwnerSaveConsLeis"
+			],
+			[
+				"Fillmat_",
+				"Fillmat_pos"
+			],
+			[
+				"v2arr",
+				"v2arr_m"
+			],
+			[
+				"cmat",
+				"cmat_neg"
+			],
+			[
+				"v2ar",
+				"v2arr_pos"
+			],
+			[
+				"v1",
+				"v1arr_pos"
+			],
+			[
+				"Fillv1",
+				"Fillv1arr_4D"
+			],
+			[
+				"FillV1arr",
+				"Fillv1arr_4D"
+			],
+			[
+				"v2",
+				"v2arr_neg"
+			],
+			[
+				"v1ma",
+				"v1mat_pos"
+			],
+			[
+				"smat",
+				"smat_pos"
+			],
+			[
+				"debug",
+				"Debug_v_vec"
+			],
+			[
+				"vector",
+				"vector_isnan_max"
+			],
+			[
+				"Sol",
+				"Sol2R"
+			],
+			[
+				"Fillv1arr_v",
+				"Fillv1arr_v2arr4D_neg"
+			],
+			[
+				"RentIn",
+				"RentIndi7"
+			],
+			[
+				"v_stay",
+				"v_stay_L"
+			],
+			[
+				"integrate",
+				"integrateRent13"
+			],
+			[
+				"nan",
+				"naneg-1"
+			],
+			[
+				"ComputeRen",
+				"ComputeRenterFile13"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Traditional"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"te",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"textpastry",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"send",
+				"SendCode: Choose Program"
+			],
+			[
+				"aling",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"package rese",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package resr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install packag",
+				"Package Control: Install Package"
+			],
+			[
+				"latex",
+				"LaTeXTools: Check system"
+			],
+			[
+				"aligin",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"text p",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"text",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				" install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"aign",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"algin",
+				"AlignTab"
+			],
+			[
+				":reg",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"Align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"Alig",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Packages",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 430.0
+	},
+	"console":
+	{
+		"height": 263.0,
+		"history":
+		[
+			"cd",
+			"pwd",
+			"ls()",
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/74097/.julia/dev/DCEGM/src/envelope.jl",
+		"/Users/74097/.julia/dev/DCEGM/src/DCEGM.jl",
+		"/Users/74097/.julia/dev/DCEGM/src/line.jl",
+		"/Users/74097/Dropbox/sublimes/DCegmjl.sublime-project",
+		"/Users/74097/.julia/dev/DCEGM/src/dc_algo.jl",
+		"/Users/74097/Dropbox/referee/JoEconometrics/keane-fedor/resubmission/report.txt",
+		"/Users/74097/Downloads/CMakeLists.txt",
+		"/Users/florian.oswald/.julia/dev/DCEGM/src/dc_algo.jl",
+		"/Users/florian.oswald/.julia/dev/DCEGM/test/linetests.jl",
+		"/Users/florian.oswald/.julia/dev/DCEGM/src/DCEGM.jl",
+		"/Users/florian.oswald/.julia/dev/DCEGM/.travis.yml",
+		"/Users/florian.oswald/.julia/dev/DCEGM/README.md",
+		"/Users/florian.oswald/.julia/dev/DCEGM/src/plotting.jl",
+		"/Users/florian.oswald/.julia/dev/DCEGM/test/Envtests.jl",
+		"/Users/florian.oswald/.julia/dev/DCEGM/test/runtests.jl",
+		"/Users/florian.oswald/.julia/dev/DCEGM/src/envelope.jl",
+		"/Users/florian.oswald/.julia/dev/DCEGM/src/line.jl",
+		"/Users/florian.oswald/.julia/dev/DCEGM/.appveyor.yml",
+		"/Users/florian.oswald/Dropbox/sublimes/DCegmjl.sublime-project",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/src/plotting.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/test/Envtests.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/test/basics.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/src/envelope.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/test/runtests.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/src/line.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/src/DCEGM.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/src/dc_algo.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/Project.toml",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/REQUIRE",
+		"/Users/74097/.julia/v0.6/DCEGM/src/envelope.jl",
+		"/Users/74097/.julia/v0.6/DCEGM/src/DCEGM.jl",
+		"/Users/74097/.julia/v0.6/DCEGM/src/line.jl",
+		"/Users/74097/.julia/v0.6/DCEGM/test/Envtests.jl",
+		"/Users/74097/.julia/v0.6/DCEGM/interpolating.md",
+		"/Applications/Julia-0.6.app/Contents/Resources/julia/share/julia/base/reducedim.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/src/param.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/interpolating.md",
+		"/Users/74097/.julia/v0.6/DCEGM/src/plotting.jl",
+		"/Users/74097/.julia/v0.6/DCEGM/test/linetests.jl",
+		"/Users/74097/.julia/v0.6/DCEGM/src/dc_algo.jl",
+		"/Users/74097/.julia/v0.6/DCEGM/test/runtests.jl",
+		"/Users/74097/.julia/v0.6/DCEGM/.travis.yml",
+		"/Users/74097/.julia/v0.6/DCEGM/appveyor.yml",
+		"/Users/74097/.julia/v0.6/DCEGM/src/param.jl",
+		"/Users/74097/.julia/v0.6/DCEGM/src/utils.jl",
+		"/Users/74097/.julia/v0.6/DCEGM/test/REQUIRE",
+		"/Users/74097/.julia/v0.6/DCEGM/REQUIRE",
+		"/Users/74097/.julia/v0.6/DCEGM/Manifest.toml",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/test/linetests.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/examples/interpolating2.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/README.md",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/examples/interpolating.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/src/int.jl",
+		"/Users/florian.oswald/testp/build/index.html",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/src/examples/interpolating.jl",
+		"/Users/florian.oswald/testp/build/style.css",
+		"/Users/florian.oswald/testp/build/index.md",
+		"/Users/florian.oswald/Dropbox/teaching/ScPo/Labour/2017/slides/AKM/AKM.tex",
+		"/Users/florian.oswald/git/ScPoEconometrics/ScPoEconometrics.tex",
+		"/Users/florian.oswald/Dropbox/teaching/ScPo/Labour/2017/slides/preamble.tex",
+		"/Users/florian.oswald/git/bk/tex/preamble.tex",
+		"/Users/florian.oswald/.julia/v0.6/Remark/examples/example.md",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/src/MultiLine.jl",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/README.md",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/.travis.yml",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/LICENSE.md",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/appveyor.yml",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/src/plotting.jl",
+		"/Users/florian.oswald/git/dcegm/polyline.m",
+		"/Users/florian.oswald/git/dcegm/model_retirement.m",
+		"/Users/florian.oswald/.julia/v0.6/DCEGM/src/param.json",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/src/envelope.jl",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/test/Envtests.jl",
+		"/Users/florian.oswald/git/model-zoo/other/housing/housing.jl",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/src/MultiLine.jl",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/src/line.jl",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/appveyor.yml",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/test/REQUIRE",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/.travis.yml",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/test/current.jl",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/REQUIRE",
+		"/Users/florian.oswald/.julia/v0.6/MultiLine/test/runtests.jl",
+		"/Users/florian.oswald/Dropbox/sublimes/Multiline.sublime-project",
+		"/Users/florian.oswald/.julia/v0.6/Multiline_bk/test/runtests.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCegm/test/runtests.jl",
+		"/Users/florian.oswald/.julia/v0.6/Multiline_bk/src/MultiLine.jl",
+		"/Users/florian.oswald/.julia/v0.6/DCegm/REQUIRE",
+		"/Users/florian.oswald/.julia/v0.6/DCegm/src/DCegm.jl",
+		"/Users/florian.oswald/Library/Application Support/Sublime Text 3/Packages/Julia/Julia.sublime-syntax",
+		"/Users/florian.oswald/Library/Application Support/Sublime Text 3/Packages/Julia/Julia.tmLanguage",
+		"/Users/florian.oswald/git/bk/bkPackage/DESCRIPTION",
+		"/Users/florian.oswald/git/psidR/inst/psid-lists/wealthvars.txt",
+		"/Users/florian.oswald/git/bk/tex/Li-Meghir-Oswald.tex",
+		"/Users/florian.oswald/git/bk/tex/Li-Meghir-Oswald-15min.tex",
+		"/Users/florian.oswald/git/bk/tex/poster/poster_my.tex",
+		"/Users/florian.oswald/Dropbox/CV-Funding/funding/DOC/proposal/doc_poster/poster/poster_my.tex",
+		"/Users/florian.oswald/Dropbox/research/housing-fertility/code/julia/tables/templates/params.mus",
+		"/Users/florian.oswald/git/psidR/inst/psid-lists/famvars.txt",
+		"/Users/florian.oswald/git/psidR/inst/psid-lists/indvars.txt",
+		"/Users/florian.oswald/git/bk/bk.jl/src/data.jl",
+		"/Users/florian.oswald/git/bk/bkPackage/inst/psid-lists/wealthvars.txt",
+		"/Users/florian.oswald/git/asdfree/Survey of Consumer Finances/download all microdata.R",
+		"/Users/florian.oswald/git/bk/bk.jl/src/solver.jl",
+		"/Users/florian.oswald/git/bk/bk.jl/src/param.json",
+		"/Users/florian.oswald/git/bk/bk.jl/src/bk.jl",
+		"/Users/florian.oswald/git/asdfree/Panel Study of Income Dynamics/longitudinal analysis examples.R",
+		"/Users/florian.oswald/git/asdfree/Panel Study of Income Dynamics/download all microdata.R",
+		"/Users/florian.oswald/git/bk/bkPackage/inst/psid-lists/indvars-bk.txt",
+		"/Users/florian.oswald/git/bk/bkPackage/R/scf.R",
+		"/Users/florian.oswald/git/bk/bkPackage/R/scf.survey.R",
+		"/Users/florian.oswald/git/bk/bkPackage/R/scf2001.R",
+		"/Users/florian.oswald/git/bk/bkPackage/R/myscf.R",
+		"/Users/florian.oswald/git/asdfree/Survey of Consumer Finances/analysis examples.R",
+		"/Users/florian.oswald/git/bk/bk.jl/test/TestSaveprob.jl",
+		"/Users/florian.oswald/git/bk/bk.jl/src/saveprob.jl",
+		"/Users/florian.oswald/git/bk/bk.jl/src/test.jl",
+		"/Users/florian.oswald/git/bk/bk.jl/src/param.jl",
+		"/Users/florian.oswald/git/bk/bkPackage/R/plot-bk-trend.r",
+		"/Users/florian.oswald/Dropbox/research/housing-fertility/theory/theory_clean140217.tex",
+		"/Users/florian.oswald/Dropbox/research/housing-fertility/theory_clean140217.tex",
+		"/Users/florian.oswald/git/beamer-templates/template1.tex",
+		"/Users/florian.oswald/git/bk/bk.jl/src/model.jl",
+		"/Users/florian.oswald/git/bk/bk.jl/src/simulation.jl",
+		"/Users/florian.oswald/Dropbox/research/bankruptcy/WL-CM-FO/current/slides/Li-Meghir-Oswald.tex",
+		"/Users/florian.oswald/Dropbox/research/bankruptcy/WL-CM-FO/current/slides/preamble.tex",
+		"/Users/florian.oswald/git/bk/bkPackage/R/funs.misc.r",
+		"/Users/florian.oswald/git/bk/tables/tables.json",
+		"/Users/florian.oswald/git/bk/tables/templates/momstable.mus"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.clang":
+	{
+		"height": 88.0
+	},
+	"output.exec":
+	{
+		"height": 230.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 184.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "floswald.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"des",
+				"DESCRIPTION"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/sublimes/GSLJL.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 566.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
