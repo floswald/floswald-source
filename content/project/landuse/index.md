@@ -15,7 +15,7 @@ authors = ["Nicolas Coeurdacier", "Marc Teignier","Florian Oswald"]
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Reims in 1866 overlaid with 2017 Buildings"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -34,6 +34,6 @@ We propose a new theory for city growth which takes into account the importance 
 ## Status
 
 - [x] Theory: Baseline model is specified and numerical implementation is available
-- [x] Slides: available upon request 
+- [x] Slides: 25 mins presentation at [ESWC 2020](/pdf/landuse-eswc.pdf)
 - [x] Data Analysis
 - [ ] Draft
