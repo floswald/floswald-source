@@ -8,7 +8,7 @@ tags = ["econ"]
 categories = []
 
 # Date first published.
-date = "2015-01-01"
+date = "2020-06-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Lars Nesheim","Jonathan Halket","Florian Oswald"]
@@ -22,14 +22,14 @@ authors = ["Lars Nesheim","Jonathan Halket","Florian Oswald"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "R&R at International Economic Review"
-publication_short = "R&R at IER"
+publication = "International Economic Review (forthcoming)"
+publication_short = "IER"
 
 # Abstract and optional shortened version.
-abstract = "Which housing characteristics are important for understanding homeownership rates? How are housing characteristics priced in the rental and owner-occupied markets? And what can the answers to the previous questions tell us about economic theories of contracting frictions in housing? Using the English Housing Survey, we estimate a selection model of the allocation of properties to the owner-occupied and rental sectors. Structural characteristics and unobserved quality are important for selection. Location is not. Accounting for selection is important for estimates of rent-to-price ratios and can explain some puzzling correlations between rent-to-price ratios and homeownership rates. These patterns are consistent with, among others, hypotheses of contracting frictions in the rental market likely related to housing maintenance."
+abstract = "Which housing characteristics are important for understanding homeownership rates? How are housing characteristics priced in rental and owner-occupied markets? What can answers to these questions tell us about economic theories of homeownership? Using the English Housing Survey, we estimate a selection model of property allocations to the owner-occupied and rental sectors. Structural characteristics and unobserved quality are important for selection. Location is not. Accounting for selection is important for rent-to-price ratio estimates and explains some puzzling correlations between rent-to-price ratios and homeownership rates. These patterns are consistent with, among others, hypotheses of rental market contracting frictions related to housing maintenance."
 abstract_short = "Which housing characteristics are important for understanding homeownership rates? How are housing characteristics priced in the rental and owner-occupied markets?"
 
 # Featured image thumbnail (optional)
@@ -50,14 +50,14 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "pdf/housing-stock-Lausanne.pdf"
+url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "R&R International Economic Review", url = "https://onlinelibrary.wiley.com/journal/14682354"}]
+url_custom = [{name = "International Economic Review (forthcoming)", url = "https://onlinelibrary.wiley.com/journal/14682354"}, {name = "Online Appendix", url = "pdf/housing-stock-app.pdf"}]
 
 # Does the content use math formatting?
 math = false

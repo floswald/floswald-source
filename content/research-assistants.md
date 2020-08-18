@@ -60,7 +60,8 @@ Here they are! My current and previous research assistants in one place! I can o
 --------|---------|:----------:| :---:
 [Hugo L'Huillier](https://hugolhuillier.github.io) | [Fertility](/project/fertility) /  `julia, git` | Numerical solution of nonlinear model, `Plots.jl` graphics | Princeton Econ PhD
 [Vincent Viers](https://vviers.github.io/) | [ScPoEconometrics](/teaching/scpoeconometrics), [ZTRAX](/project/ZTRAX), [Airbnb](/project/Airbnb) / `R, postgreSQL, git` | advanced data wrangling with `data.table`, `dplyr`, spatial analytics with `sf`. Bash scripting on remote machines. Econometrics tutorials in `Rmd` | [Artefact Paris](https://artefact.com/fr-fr/)
-[Jeanne Sorin](https://fr.linkedin.com/in/jeanne-sorin-7a6248137) | [ZTRAX](/project/ZTRAX), [Chicago](/project/ChicagoCrime) / `R, git` | advanced data wrangling with `data.table`, `dplyr`, spatial analytics with `sf`, FE estimation with `lfe`. Work on google VM.| [@ScPoEcon](https://twitter.com/ScPoEcon), starting PhD U Chicago
+[Jeanne Sorin](https://fr.linkedin.com/in/jeanne-sorin-7a6248137) | [ZTRAX](/project/ZTRAX), [Chicago](/project/ChicagoCrime) / `R, git` | advanced data wrangling with `data.table`, `dplyr`, spatial analytics with `sf`, FE estimation with `lfe`. Work on google VM.| PhD U Chicago
+[Alberto Nasi](https://twitter.com/alberto_nasi) | [ZTRAX](/project/ZTRAX), [Fertility](/project/fertility), [Landuse](/project/landuse) / `R, git`  | advanced data analytics with `data.table`, `dplyr`, spatial analytics with `sf`. Work on google VM with big data. Manual data collection from historical maps. Pulling historial US census data with [`censusapi`](https://hrecht.github.io/censusapi/) |  Bocconi PhD Econ
 
 
 

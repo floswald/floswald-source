@@ -15,7 +15,7 @@ authors = ["Nicolas Coeurdacier", "Marc Teignier","Florian Oswald"]
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Reims in 1866 overlaid with 2017 Buildings"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -24,16 +24,14 @@ authors = ["Nicolas Coeurdacier", "Marc Teignier","Florian Oswald"]
 
 [header]
   image = "landuse-header.png"
-  caption = "Average Urban Density for the 30 largest French Cities over Time"
+  caption = "Reims in 1866 overlaid with 2017 Buildings"
 +++
 
-We propose a new theory for city growth which takes into account the importance of land use outside the city. 
+We develop a multi-sector spatial equilibrium model with endogenous land use: land is used either for agriculture or housing. Urban land, densely populated due to commuting frictions, expands out of agricultural land. With rising productivity, the reallocation of workers away from agriculture frees up land for cities to expand, limiting the increase in land values despite higher income and increasing urban population. Due to the reallocation of land use, the area of cities expands at a fast rate and urban density persistently declines, as in the data over a long period. As structural change slows down, cities sprawl less and land values start increasing at a fast rate, as in the last decades. Our theory can thus match the joint evolution of population density and land values across time and space, matching historical data assembled for France over 150 years.
 
-![](/img/landuse-densities.png)
 
-## Status
+## Project Status
 
-- [x] Theory: Baseline model is specified and numerical implementation is available
-- [x] Slides: available upon request 
-- [x] Data Analysis
-- [ ] Draft
+- Slides: 25 mins presentation at [ESWC 2020](/pdf/landuse-eswc.pdf)
+- [Current Draft](/pdf/landuse-draft.pdf)
+- Estimation is ongoing
