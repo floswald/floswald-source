@@ -32,6 +32,6 @@ We develop a multi-sector spatial equilibrium model with endogenous land use: la
 
 ## Project Status
 
-- Slides: 25 mins presentation at [ESWC 2020](/pdf/landuse-eswc.pdf)
-- [Current Draft](/pdf/landuse-draft.pdf)
+- [Slides](/pdf/landuse-vmacs.pdf) presented at [VMACS Junior 2020](https://sites.google.com/view/virtualmacro/vmacs-junior-conference)
+- Draft available upon request
 - Estimation is ongoing
