@@ -33,12 +33,11 @@ Here is the list of minimal requirements that you need to master in order to be 
 1. Unix shell: You need some basic unix at least to the level of [this](https://swcarpentry.github.io/shell-novice/)
 2. Git: You need git knowledge at the level of [that](https://swcarpentry.github.io/git-novice/)
 2. R. You need solid R skills. 
-    1. Work through [Hadley's Book](https://r4ds.had.co.nz) and show me your solutions to exercises:
-        1. chapter 2
-        2. chapter 3: 3.1-3.7
-        3. chapter 4
-        4. chapter 5
-        5. chapters 6, 9, 10, 11.1-11.3, 12, 13
+    1. Work through [Hadley's Book](https://r4ds.had.co.nz) and show me your solutions to exercises where indicated:
+        1. chapter 4 (no exercises)
+        1. chapter 5 (all exercises)
+        1. chapters 9 (no exercises)
+        2. chapter 13 (all exercises)
     2. Often you need to work with spatial data. Here are a couple of resources you should look at and try to work through on your computer:
         1. [geocoding-with-r](https://www.jessesadler.com/post/geocoding-with-r/)
         2. [gis-with-r-intro](https://www.jessesadler.com/post/gis-with-r-intro/)
